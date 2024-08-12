@@ -8,4 +8,4 @@ This project uses a Recurrent Neural Network (RNN) to generate poetic text based
 2. Uses an LSTM-based RNN to learn the patterns in the text
 3. Generates new text sequences based on the trained model
 
-!![RNN Architecture](RNN.png)
+![RNN Architecture](RNN.png)
